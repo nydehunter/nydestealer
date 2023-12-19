@@ -9,3 +9,12 @@
 4. Ensuite, le processus de build vous demandera si vous voulez construire le fichier. Répondez-y, puis attendez la fin du build et rendez-vous dans le dossier "Build" où vous trouverez votre .exe.
 
 5. Ensuite, libre à vous et à votre imagination pour lancer votre .exe sur l'ordinateur de vos prochaines cibles.
+
+
+
+
+This software is provided as-is and I am not responsible for any damages that may occur after acquiring or using it. Please understand that this software is intended for personal educational purposes and sandbox testing only. Use it at your own risk. I make no guarantees about its performance or suitability for specific purposes. It is important to note that this software is not intended for critical or sensitive environments. Any usage beyond its intended purposes is your own decision and responsibility. You are solely responsible for evaluating your own technical abilities and knowledge to use the software appropriately. I cannot be held liable for any actions you take based on the information or functionality provided by the software. By acquiring or using this software, you agree to release me from any claims or liabilities. Please seek legal advice if you have any specific concerns or questions about the software's usage.
+
+ By using/downloading this repository, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/
+
+ You're free to contribute the project
