@@ -5,10 +5,8 @@
 ## 🌐 〢 Content
 
 - [📁 Setting up](#setup)
-- [⚔️ Features](#features)
 - [📸 Screenshots](#screenshot)
 - [📜 License](#license)
-- [⚠️ Note](#note)
 
 <a id="setup"></a>
 
